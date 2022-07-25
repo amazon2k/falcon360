@@ -14,16 +14,10 @@
     
         <div class="container">
             <div class="row">
-                <ul>
-                    <li>Kitchen</li>
-                    <li>Tool</li>
-                    <li>Smart</li>
-                    <li>Gadgets</li>
-                    <li>360</li>
-                </ul>
+                  <?php include 'nav.php';?>
             </div>
         </div>
-
+        
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
   </body>
 </html>
